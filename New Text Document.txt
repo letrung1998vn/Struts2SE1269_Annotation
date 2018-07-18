@@ -1,4 +1,10 @@
 hi
 hello
 this is your life
+<<<<<<< HEAD
 adgahswhhjnm
+=======
+something change
+blablabla 
+jdf
+>>>>>>> 43b7b1fd80c9b5f2136527944d87f48a771c1ed1
